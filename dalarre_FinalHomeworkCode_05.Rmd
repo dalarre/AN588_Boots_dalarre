@@ -134,6 +134,8 @@ table
 
 ```
 
+*great work*
+
 ##EXTRA CREDIT
 
 ##Tried to do the extra credit for the final homework
@@ -231,6 +233,7 @@ b(d = f, m1 = "Brain_Size_Female_Mean", m2 = "Body_Mass_Female_Mean") ## Still n
 
 ```
 
+*it looks like you are assigning m1 and m2 as your data columns when "m" should be the model in the function*
 
 ##EXTRA EXTRA CREDIT
 
